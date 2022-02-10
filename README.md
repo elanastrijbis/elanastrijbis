@@ -3,6 +3,7 @@
 
 
 
+
 **:rocket:About Me**
 
 I am a Full Stack Developer, passionate about helping people and problem-solving. My recent transition to tech has made me obsessed with the idea of using software to solve practival problems. It's a never-ending puzzle that I am passionately engaged in solving. 
