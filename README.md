@@ -4,7 +4,7 @@
 
 
 
-🚀 I am a **Full Stack Developer **, passionate about helping people and problem-solving. My recent transition to tech has made me obsessed with the idea of using software to solve practival problems. It's a never-ending puzzle that I am passionately engaged in solving. 
+🚀 I am a **Full Stack Developer**, passionate about helping people and problem-solving. My recent transition to tech has made me obsessed with the idea of using software to solve practival problems. It's a never-ending puzzle that I am passionately engaged in solving. 
 
 While I was learning to code in my spare time, I decided to join Le Wagon Melbourne for a Full Stack Web Development Bootcamp. It has taught me the technical skills, as wel as gaining a greater understanding of the user-oriented experience. 
 
